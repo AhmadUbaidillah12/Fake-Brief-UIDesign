@@ -1,0 +1,33 @@
+Brief Website Urban Greenery
+============================
+
+Klien: Urban Greenery
+
+Tujuan: Membuat website untuk perusahaan yang bergerak di bidang desain dan perawatan taman kota, Urban Greenery. Website ini akan digunakan sebagai media untuk mempromosikan jasa-jasa yang ditawarkan oleh Urban Greenery kepada masyarakat umum.
+
+Sasaran Pengguna: Masyarakat umum yang tertarik dengan desain dan perawatan taman kota. Sasaran pengguna utama adalah kelompok usia 25-45 tahun yang aktif di media sosial.
+
+User Flow:
+----------
+
+1.  Pengguna membuka halaman utama website Urban Greenery.
+2.  Pengguna disambut dengan banner gambar taman kota yang indah dan deskripsi singkat mengenai jasa-jasa Urban Greenery.
+3.  Pengguna dapat memilih untuk melihat portofolio proyek-proyek Urban Greenery atau mengeksplor jasa-jasa yang ditawarkan.
+4.  Jika pengguna memilih untuk melihat portofolio proyek-proyek Urban Greenery, mereka akan diarahkan ke halaman portofolio yang menampilkan gambar dan deskripsi singkat dari proyek-proyek terbaru yang telah diselesaikan oleh Urban Greenery.
+5.  Jika pengguna memilih untuk mengeksplor jasa-jasa yang ditawarkan, mereka akan diarahkan ke halaman jasa yang menampilkan deskripsi singkat dari setiap jasa yang ditawarkan oleh Urban Greenery.
+6.  Pengguna dapat memilih jasa yang ingin mereka pesan, dan mereka akan diarahkan ke halaman pemesanan jasa.
+7.  Pada halaman pemesanan jasa, pengguna akan diminta untuk mengisi formulir dengan informasi kontak dan detail pesanan.
+8.  Setelah pengguna mengisi formulir, mereka akan diarahkan ke halaman konfirmasi pesanan yang menampilkan ringkasan pesanan mereka beserta biaya yang harus dibayarkan.
+9.  Jika pengguna setuju dengan pesanan dan biaya, mereka dapat melanjutkan untuk membayar pesanan melalui metode pembayaran online yang tersedia di halaman konfirmasi pesanan.
+10. Setelah pembayaran berhasil dilakukan, pengguna akan menerima email konfirmasi dan Urban Greenery akan mulai memproses pesanan mereka.
+
+Fitur yang harus ada pada website:
+----------------------------------
+
+1.  Halaman utama yang menampilkan gambar dan deskripsi singkat mengenai Urban Greenery.
+2.  Halaman portofolio yang menampilkan proyek-proyek terbaru Urban Greenery.
+3.  Halaman jasa yang menampilkan deskripsi singkat dari setiap jasa yang ditawarkan oleh Urban Greenery.
+4.  Halaman pemesanan jasa yang memungkinkan pengguna untuk mengisi formulir pesanan.
+5.  Halaman konfirmasi pesanan yang menampilkan ringkasan pesanan dan biaya yang harus dibayarkan.
+6.  Metode pembayaran online yang tersedia di halaman konfirmasi pesanan.
+7.  Email konfirmasi pesanan yang dikirimkan ke pengguna setelah pembayaran berhasil dilakukan.
