@@ -1,4 +1,5 @@
-#Brief Website Urban Greenery
+Brief Website Urban Greenery
+===========
 
 Klien: Urban Greenery
 
@@ -6,7 +7,8 @@ Tujuan: Membuat website untuk perusahaan yang bergerak di bidang desain dan pera
 
 Sasaran Pengguna: Masyarakat umum yang tertarik dengan desain dan perawatan taman kota. Sasaran pengguna utama adalah kelompok usia 25-45 tahun yang aktif di media sosial.
 
-##User Flow:
+User Flow:
+---
 
 1.  Pengguna membuka halaman utama website Urban Greenery.
 2.  Pengguna disambut dengan banner gambar taman kota yang indah dan deskripsi singkat mengenai jasa-jasa Urban Greenery.
@@ -19,7 +21,8 @@ Sasaran Pengguna: Masyarakat umum yang tertarik dengan desain dan perawatan tama
 9.  Jika pengguna setuju dengan pesanan dan biaya, mereka dapat melanjutkan untuk membayar pesanan melalui metode pembayaran online yang tersedia di halaman konfirmasi pesanan.
 10. Setelah pembayaran berhasil dilakukan, pengguna akan menerima email konfirmasi dan Urban Greenery akan mulai memproses pesanan mereka.
 
-##Fitur yang harus ada pada website:
+Fitur yang harus ada pada website:
+--
 
 1.  Halaman utama yang menampilkan gambar dan deskripsi singkat mengenai Urban Greenery.
 2.  Halaman portofolio yang menampilkan proyek-proyek terbaru Urban Greenery.
